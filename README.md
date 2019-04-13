@@ -19,3 +19,4 @@ General info setting up proxmox test grid
 - [Ceph Server Updated Version](https://pve.proxmox.com/pve-docs/chapter-pveceph.html)
 - [Ceph PGs per Pool Calculator](https://ceph.com/pgcalc/)
 - [Ceph videos](https://www.youtube.com/channel/UCno-Fry25FJ7B4RycCxOtfw/videos)
+- [Ceph Hardware and Process](http://docs.ceph.com/docs/jewel/start/hardware-recommendations/)
